@@ -72,6 +72,7 @@ Some examples of projects where the topic of reproducible builds is still an ope
 * [Oasis Network][reprobuilds-oasis]
 * [Secret Network][reprobuilds-secret]
 * [Gramine][reprobuilds-gramine]
+* [Occlum][reprobuilds-occlum]
 * [Flashbots Geth-in-SGX][reprobuilds-flashbots]
 
 Is considered resolved with Nix:
@@ -128,6 +129,7 @@ source code dependencies needed to rebuild the attestation stack.
 [reprobuilds-secret]: https://github.com/scrtlabs/SecretNetwork/issues/1467
 [reprobuilds-gramine]: https://github.com/gramineproject/gramine/issues/153
 [reprobuilds-gramine-nix]: https://github.com/gramineproject/gramine/issues/153#issuecomment-1489209009
+[reprobuilds-occlum]: https://github.com/occlum/occlum/issues/690
 [gramine-flake_nix]: https://github.com/sbellem/gramine/blob/1.4-nix/flake.nix
 [reprobuilds-flashbots]: https://github.com/flashbots/geth-sgx-gramine/issues/8
 [reprobuilds-cosmwasm]: https://github.com/CosmWasm/rust-optimizer
